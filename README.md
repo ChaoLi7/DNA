@@ -1,2 +1,2 @@
-# Gene-editing
+# Gene editing
 DNA-analysis
